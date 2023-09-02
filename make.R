@@ -1,11 +1,11 @@
 #' projectname: A Research Compendium
-#' 
-#' @description 
-#' A paragraph providing a full description of the project and describing each 
+#'
+#' @description
+#' A paragraph providing a full description of the project and describing each
 #' step of the workflow.
-#' 
+#'
 #' @author Andree Valle-Campos \email{avallecam@gmail.com}
-#' 
+#'
 #' @date 2023/09/01
 
 
@@ -29,3 +29,6 @@ devtools::load_all(here::here())
 
 # List all R scripts in a sequential order and using the following form:
 # source(here::here("analyses", "script_X.R"))
+
+source(here::here("analyses", "01-clean.R"))
+source(here::here("analyses", "02-plot.R"))
