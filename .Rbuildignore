@@ -13,3 +13,4 @@
 ^README\.html$
 ^\.github$
 ^\.Rprofile$
+^CITATION\.cff$
