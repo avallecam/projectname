@@ -1,0 +1,9 @@
+
+bibentry(bibtype = "Misc",
+         key = "vallecampos",
+         title = "projectname: My Reproducible Project",
+         author = person(given = "Andree",
+                         family = "Valle-Campos"),
+         url = "https://github.com/avallecam/projectname",
+         abstract = "A paragraph providing a full description of the project (on several lines...)",
+         version = "0.0.0.9000")
