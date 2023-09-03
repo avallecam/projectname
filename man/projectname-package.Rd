@@ -4,7 +4,7 @@
 \name{projectname-package}
 \alias{projectname}
 \alias{projectname-package}
-\title{projectname: The Title of the Project}
+\title{projectname: My Reproducible Project}
 \description{
 A paragraph providing a full description of the project (on several lines...)
 }
