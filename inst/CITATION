@@ -2,6 +2,7 @@
 bibentry(bibtype = "Misc",
          key = "vallecampos",
          title = "projectname: My Reproducible Project",
+         year = 2023,
          author = person(given = "Andree",
                          family = "Valle-Campos"),
          url = "https://github.com/avallecam/projectname",

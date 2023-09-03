@@ -17,13 +17,14 @@ Research Compendium of the project **{{ PLEASE ADD A FEW WORDS }}**
 Please cite this compendium as:
 
     #> 
-    #> Valle-Campos A (????). "projectname: My Reproducible Project."
+    #> Valle-Campos A (2023). "projectname: My Reproducible Project."
     #> <https://github.com/avallecam/projectname>.
     #> 
     #> A BibTeX entry for LaTeX users is
     #> 
     #>   @Misc{vallecampos,
     #>     title = {projectname: My Reproducible Project},
+    #>     year = {2023},
     #>     author = {Andree Valle-Campos},
     #>     url = {https://github.com/avallecam/projectname},
     #>     abstract = {A paragraph providing a full description of the project (on several lines...)},
