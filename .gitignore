@@ -4,20 +4,17 @@
 # History files ----
 .Rhistory
 .Rapp.history
-
 # Session Data files ----
 .RData
 .Ruserdata
-
 # RStudio files ----
 *.Rproj
 .Rproj.user/
-
 # R Environment Variables ----
 .Renviron
-
 # User-specific files ----
 README.html
 inst/doc
 renv/
 .Rprofile
+*/data/*
