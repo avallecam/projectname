@@ -22,10 +22,10 @@ Please cite this compendium as:
     #> 
     #> A BibTeX entry for LaTeX users is
     #> 
-    #>   @Misc{vallecampos,
+    #>   @Misc{vallecampos:2023,
     #>     title = {projectname: My Reproducible Project},
-    #>     year = {2023},
     #>     author = {Andree Valle-Campos},
+    #>     year = {2023},
     #>     url = {https://github.com/avallecam/projectname},
     #>     abstract = {A paragraph providing a full description of the project (on several lines...)},
     #>     version = {0.0.0.9000},
@@ -72,9 +72,33 @@ Then, run:
 source("make.R")
 ```
 
-### Notes
+#### Notes
 
 - All required packages, listed in the `DESCRIPTION` file, will be
   installed (if necessary)
 - All required packages and R functions will be loaded
 - Some analyses listed in the `make.R` might take time
+
+### Licenses
+
+**Text and figures :**
+[CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
+
+**Code :** See the [DESCRIPTION](DESCRIPTION) file
+
+**Data :** [CC-0](http://creativecommons.org/publicdomain/zero/1.0/)
+attribution requested in reuse
+
+### Contributing
+
+Contributions are always welcome!
+
+See our [contributing guide](/.github/CONTRIBUTING.md) for ways to get
+started.
+
+Please adhere to this project’s [Code of
+Conduct](/.github/CODE_OF_CONDUCT.md).
+
+### Support
+
+For support, please see our [Getting help guide](/.github/SUPPORT.md).
