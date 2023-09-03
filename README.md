@@ -49,7 +49,11 @@ This repository is structured as follow:
 
 ### Usage
 
-Clone the repository, open R/RStudio and run:
+First, clone this repository. You can follow [steps on how to create a
+new Rstudio Project from a GitHub
+repository](https://happygitwithr.com/new-github-first.html#usethiscreate_from_github).
+
+Then, run:
 
 ``` r
 source("make.R")
