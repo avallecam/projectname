@@ -12,7 +12,7 @@
 
 Research Compendium of the project **{{ PLEASE ADD A FEW WORDS }}**
 
-### How to cite
+## How to cite
 
 Please cite this compendium as:
 
@@ -31,7 +31,7 @@ Please cite this compendium as:
     #>     version = {0.0.0.9000},
     #>   }
 
-### Content
+## Content
 
 This repository is structured as follow:
 
@@ -60,7 +60,7 @@ This repository is structured as follow:
   main R script to run the entire project by calling each R script
   stored in the `analyses/` folder
 
-### Usage
+## Usage
 
 First, clone this repository. You can follow [steps on how to create a
 new Rstudio Project from a GitHub
@@ -72,14 +72,14 @@ Then, run:
 source("make.R")
 ```
 
-#### Notes
+### Notes
 
 - All required packages, listed in the `DESCRIPTION` file, will be
   installed (if necessary)
 - All required packages and R functions will be loaded
 - Some analyses listed in the `make.R` might take time
 
-### Licenses
+## Licenses
 
 **Text and figures :**
 [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
@@ -89,7 +89,7 @@ source("make.R")
 **Data :** [CC-0](http://creativecommons.org/publicdomain/zero/1.0/)
 attribution requested in reuse
 
-### Contributing
+## Contributing
 
 Contributions are always welcome!
 
@@ -99,6 +99,6 @@ started.
 Please adhere to this project’s [Code of
 Conduct](/.github/CODE_OF_CONDUCT.md).
 
-### Support
+## Support
 
 For support, please see our [Getting help guide](/.github/SUPPORT.md).
