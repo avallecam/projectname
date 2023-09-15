@@ -10,7 +10,8 @@
 [![Dependencies](https://img.shields.io/badge/dependencies-2/95-green?style=flat)](#)
 <!-- badges: end -->
 
-Research Compendium of the project **{{ PLEASE ADD A FEW WORDS }}**
+Research Compendium of the project to test how to make an open,
+reproducible, sustainable analysis project.
 
 ## How to cite
 
